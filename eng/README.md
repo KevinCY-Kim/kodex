@@ -68,3 +68,14 @@ A new developer should follow this workflow to seamlessly integrate into a `KODE
 The `KevinCY-Kodex` is more than just documentation. It is an automated, self-consistent system for excellence. By following these standards, we can consistently build robust, maintainable, and scalable AI applications that meet the highest engineering quality.
 
 This is the foundation for our success.
+
+---
+
+## 6. Copyright and License
+
+The content of `KevinCY-Kodex` is distributed under the following dual-license structure to encourage free use and contribution.
+
+-   **Documentation:** All `.md` files and other documentation content are distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. You are free to use, copy, modify, and distribute the material in any medium or format for any purpose, including commercially, as long as you give appropriate credit.
+-   **Code:** All source code examples within the documentation are distributed under the **MIT License**. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software without restriction.
+
+Copyright (c) 2025 KevinCY-Kim. All rights reserved.
